@@ -1,0 +1,5 @@
+{
+  "platinum_3yr_monthly": {"label": "Platinum 3-Year (monthly)", "annual_rate": 0.1725, "type": "fixed", "years": 3},
+  "platinum_3yr_stepped": {"label": "Platinum 3-Year (stepped)", "annual_rate": [0.22, 0.175, 0.13], "type": "stepped", "years": 3},
+  "flex_td_6m": {"label": "Flex TD 6-Month", "annual_rate": 0.14, "type": "fixed", "years": 3}
+}

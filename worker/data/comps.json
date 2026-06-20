@@ -1,0 +1,38 @@
+{
+  "_instructions": "Fill in real, current competitor prices as you collect them (from brokers, listings, site visits). price_per_sqm_egp should reflect TODAY's asking prices, not old listings. Remove this _instructions field once you start adding real rows, or leave it — it's ignored by the app.",
+  "comps": [
+    {
+      "compound": "October Plaza",
+      "developer": "SODIC",
+      "location": "6th of October",
+      "unit_type": "apartment",
+      "area_sqm": 0,
+      "price_per_sqm_egp": 0,
+      "date_collected": "",
+      "source": "",
+      "notes": ""
+    },
+    {
+      "compound": "Mountain Park",
+      "developer": "",
+      "location": "6th of October",
+      "unit_type": "apartment",
+      "area_sqm": 0,
+      "price_per_sqm_egp": 0,
+      "date_collected": "",
+      "source": "",
+      "notes": ""
+    },
+    {
+      "compound": "Palm Parks",
+      "developer": "Palm Hills",
+      "location": "6th of October",
+      "unit_type": "apartment",
+      "area_sqm": 0,
+      "price_per_sqm_egp": 0,
+      "date_collected": "",
+      "source": "",
+      "notes": ""
+    }
+  ]
+}

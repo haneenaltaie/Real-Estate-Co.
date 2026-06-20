@@ -1,0 +1,13 @@
+name = "real-estate-ai-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Set your allowed origin(s) — replace with your real domain(s).
+# You can set multiple by editing the ALLOWED_ORIGINS list in worker.js instead.
+[vars]
+ALLOWED_ORIGIN = "https://your-domain.com"
+
+# The OpenAI key itself is NOT set here.
+# After deploying, run:
+#   wrangler secret put OPENAI_API_KEY
+# and paste the new key when prompted. This keeps it out of source files entirely.
